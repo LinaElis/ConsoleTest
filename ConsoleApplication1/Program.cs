@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hasta la vista baby!");
+            Console.WriteLine("Hasta ooklpla vista baby!");
         }
     }
 }
